@@ -21,7 +21,7 @@ input:focus, button:focus {
 }
 
 header {
-    background-image: url();
+    background-image: url('https://images.unsplash.com/photo-1589822009941-f9ff151c8759?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
